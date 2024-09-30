@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\darvi\\Documents\\Automacao_Emails\\AutomacaoEmail\\",
+  "WorkspaceRootPath": "C:\\Users\\darvi\\Documents\\Automacao_Email\\AutomacaoEmail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5210D656-7B46-480D-9BDD-7FAF997AF17F}|AutomacaoEmail\\AutomacaoEmail.csproj|c:\\users\\darvi\\documents\\automacao_emails\\automacaoemail\\automacaoemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5210D656-7B46-480D-9BDD-7FAF997AF17F}|AutomacaoEmail\\AutomacaoEmail.csproj|c:\\users\\darvi\\documents\\automacao_email\\automacaoemail\\automacaoemail\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5210D656-7B46-480D-9BDD-7FAF997AF17F}|AutomacaoEmail\\AutomacaoEmail.csproj|solutionrelative:automacaoemail\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5210D656-7B46-480D-9BDD-7FAF997AF17F}|AutomacaoEmail\\AutomacaoEmail.csproj|c:\\users\\darvi\\documents\\automacao_email\\automacaoemail\\automacaoemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5210D656-7B46-480D-9BDD-7FAF997AF17F}|AutomacaoEmail\\AutomacaoEmail.csproj|solutionrelative:automacaoemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5210D656-7B46-480D-9BDD-7FAF997AF17F}|AutomacaoEmail\\AutomacaoEmail.csproj|c:\\users\\darvi\\documents\\automacao_emails\\automacaoemail\\automacaoemail\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5210D656-7B46-480D-9BDD-7FAF997AF17F}|AutomacaoEmail\\AutomacaoEmail.csproj|C:\\Users\\darvi\\Documents\\Automacao_Email\\AutomacaoEmail\\automacaoemail\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5210D656-7B46-480D-9BDD-7FAF997AF17F}|AutomacaoEmail\\AutomacaoEmail.csproj|solutionrelative:automacaoemail\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,28 +22,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 314,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\darvi\\Documents\\Automacao_Emails\\AutomacaoEmail\\AutomacaoEmail\\EmailService.cs",
-              "RelativeDocumentMoniker": "AutomacaoEmail\\EmailService.cs",
-              "ToolTip": "C:\\Users\\darvi\\Documents\\Automacao_Emails\\AutomacaoEmail\\AutomacaoEmail\\EmailService.cs",
-              "RelativeToolTip": "AutomacaoEmail\\EmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\darvi\\Documents\\Automacao_Email\\AutomacaoEmail\\AutomacaoEmail\\Form1.cs",
+              "RelativeDocumentMoniker": "AutomacaoEmail\\Form1.cs",
+              "ToolTip": "C:\\Users\\darvi\\Documents\\Automacao_Email\\AutomacaoEmail\\AutomacaoEmail\\Form1.cs [Design]",
+              "RelativeToolTip": "AutomacaoEmail\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T16:48:36.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T02:57:17.091Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\darvi\\Documents\\Automacao_Email\\AutomacaoEmail\\AutomacaoEmail\\EmailService.cs",
+              "RelativeDocumentMoniker": "AutomacaoEmail\\EmailService.cs",
+              "ToolTip": "C:\\Users\\darvi\\Documents\\Automacao_Email\\AutomacaoEmail\\AutomacaoEmail\\EmailService.cs",
+              "RelativeToolTip": "AutomacaoEmail\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:48:36.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\darvi\\Documents\\Automacao_Emails\\AutomacaoEmail\\AutomacaoEmail\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\darvi\\Documents\\Automacao_Email\\AutomacaoEmail\\AutomacaoEmail\\Program.cs",
               "RelativeDocumentMoniker": "AutomacaoEmail\\Program.cs",
-              "ToolTip": "C:\\Users\\darvi\\Documents\\Automacao_Emails\\AutomacaoEmail\\AutomacaoEmail\\Program.cs",
+              "ToolTip": "C:\\Users\\darvi\\Documents\\Automacao_Email\\AutomacaoEmail\\AutomacaoEmail\\Program.cs",
               "RelativeToolTip": "AutomacaoEmail\\Program.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAABEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
